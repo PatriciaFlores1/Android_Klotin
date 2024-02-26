@@ -1,0 +1,15 @@
+# Guía de laboratorio 1. CALCULADORA BÁSICA KLOTIN
+OBJETIVOS
+ . Conocer el entorno de programación del IDE Android Studio para programación bajo el sistema Android.
+ • Hacer una nueva aplicación en Android que utilice los controles: TextView, EditText y Button. Interactuando con la interfaz gráfica mediante métodos y eventos.
+ • Ejecutar la aplicación mediante un AVD
+
+La calculadora básica esta diseña en android Klotin, requisitos
+  1. Emty Activity
+  2. Lenguaje Klotin
+  3. SDK: API 16:Android 4.1 (Jelly Bean)
+  4. Emulador Pixel API 24
+
+Nota: El codigo fuente se encuentra en MainActivity.kt posee dos versiones que realizan las mismas operaciones
+
+# Guía de laboratorio 2. PROGRAMACIÓN BÁSICA SOBRE SMART PHONES ANDROID
