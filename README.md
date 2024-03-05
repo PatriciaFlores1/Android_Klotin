@@ -18,8 +18,8 @@ CONTENIDOS
 
 OBJETIVO
 
-  1.Identificar los diferentes componentes de interfaz gráfica.
-  2.Diseñar y desarrollar una interfaz de usuario aplicando los conceptos de experiencia de usuario para optimizar el uso de la aplicación desarrollada.
+  1. Identificar los diferentes componentes de interfaz gráfica.
+  2. Diseñar y desarrollar una interfaz de usuario aplicando los conceptos de experiencia de usuario para optimizar el uso de la aplicación desarrollada.
 
 CONTENIDOS
   1. Diseño de Interfaces.
