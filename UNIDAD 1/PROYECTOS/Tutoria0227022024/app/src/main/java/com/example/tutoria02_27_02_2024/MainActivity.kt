@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.i("cicloVida", "Ingreso al onCreate()") //referenia en .xml
+        Log.i("cicloVida", "Ingreso al onCreate()") //referencia en .xml
     }
 
     override fun onStart() {
