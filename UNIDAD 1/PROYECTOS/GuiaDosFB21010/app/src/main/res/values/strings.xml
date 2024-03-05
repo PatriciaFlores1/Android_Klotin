@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuiaDosFB21010</string>
+    <string name="boton1">suma</string>
+    <string name="boton2">resta</string>
+    <string name="boton3">Mult</string>
+    <string name="parametro1">Valor1</string>
+    <string name="parametro2">Valor2</string>
+    <string name="parametro3">Valor3</string>
+    <string name="resultado">Total</string>
+</resources>
