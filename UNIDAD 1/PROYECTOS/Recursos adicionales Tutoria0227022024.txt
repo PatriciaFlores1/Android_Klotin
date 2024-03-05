@@ -1,0 +1,5 @@
+*Ciclo de vida de la actividad*
+https://developer.android.com/guide/components/activities/activity-lifecycle?hl=es-419
+
+*Cómo administrar el ciclo de vida de la actividad*
+https://developer.android.com/guide/components/activities/intro-activities?hl=es-419
