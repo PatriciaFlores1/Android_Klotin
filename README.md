@@ -23,12 +23,10 @@ OBJETIVO
 
 CONTENIDOS
   1. Diseño de Interfaces.
-     
-    1.1  Diseño de interfaz de usuario 
-    1.2 Diseño de experiencia de usuario
-    1.3 Gamificación
-    1.4 Prototipos de interfaz de usuario
-    
-  3. Componentes
-  4. Diálogos  y notificaciones
-  5. Métodos y eventos
+  1.1 Diseño de interfaz de usuario 
+  1.2 Diseño de experiencia de usuario
+  1.3 Gamificación
+  1.4 Prototipos de interfaz de usuario
+  2. Componentes
+  3. Diálogos  y notificaciones
+  4. Métodos y eventos
